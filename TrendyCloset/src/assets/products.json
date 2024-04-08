@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "01",
+      "thumb_src": "assets/images/suit-3.jpg",
+      "thumb_alt": "tuxedo-image",
+      "color": "Black",
+      "colors": ["red", "blue", "green"],
+      "title": "Tuxedo Suit Jacket",
+      "price": 399,
+      "description": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "full_description": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "details": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "highlights": [
+        "Multiple strap configuration for a tailored fit",
+        "Water resistant material for added durability",
+        "Stainless strap loops for a polished finish",
+        "Ultra-soft 100% cotton lining for comfort"
+      ],
+      "features": [
+        "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
+        "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
+        "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+      ],
+      "rating": 4,
+      "reviews": 117,
+      "size": "Small",
+      "sizes": {
+        "XS": 3,
+        "S": 0,
+        "M": 1,
+        "L": 1213,
+        "XL": 6
+      },
+      "data": {
+        "Features": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+        "Care": "Machine wash cold, tumble dry low",
+        "Shipping": "We offer worldwide shipping. Delivery within 3-5 business days.",
+        "Returns": "Hassle-free returns within 30 days of purchase."
+      },
+      "featuresDetails": {
+        "Origin": "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
+        "Material": "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
+        "Dimensions": "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+      },
+      "stock": true
+    },
+
+    {
+      "id": "02",
+      "thumb_src": "assets/images/suit-1.jpg",
+      "thumb_alt": "blazers-image",
+      "color": "Black",
+      "colors": ["black", "green", "white"],
+      "title": "Slim Fit Blazer",
+      "price": 490,
+      "rating": 5,
+      "reviews": 117,
+      "description": "Step up your style game with our Slim Fit Blazer in classic black. Made from premium materials, this blazer offers a modern twist on a timeless classic. Whether you're heading to the office or a night out, this versatile piece will keep you looking sharp and sophisticated.",
+      "full_description": "Step up your style game with our Slim Fit Blazer in classic black. Made from premium materials, this blazer offers a modern twist on a timeless classic. Whether you're heading to the office or a night out, this versatile piece will keep you looking sharp and sophisticated.",
+      "details": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "features": [
+        "Multiple strap configuration",
+        "Water Resistant",
+        "Stainless strap loops",
+        "Ultra-soft 100% cotton"
+      ],
+      "size": "Medium",
+      "sizes": {
+        "XS": 3,
+        "S": 0,
+        "M": 1,
+        "L": 0,
+        "XL": 6
+      },
+      "data": {
+        "Features": "Step up your style game with our Slim Fit Blazer in classic black. Made from premium materials, this blazer offers a modern twist on a timeless classic. Whether you're heading to the office or a night out, this versatile piece will keep you looking sharp and sophisticated.",
+        "Care": "Machine wash cold, tumble dry low",
+        "Shipping": "We offer worldwide shipping. Delivery within 3-5 business days.",
+        "Returns": "Hassle-free returns within 30 days of purchase."
+      },
+      "featuresDetails": {
+        "Origin": "Designed by Good Goods, Inc.",
+        "Material": "Solid walnut base with rare earth magnets and powder coated steel card cover",
+        "Dimensions": "6.25 x 3.55' x 1.15'",
+        "Finish": "Hand sanded and finished with natural oil",
+        "Includes": "Wood card tray and 3 refill packs",
+        "Considerations": "Made from natural materials. Grain and color vary with each item."
+      },
+      "stock": false
+    },
+
+    {
+      "id": "03",
+      "thumb_src": "assets/images/suit-2.jpg",
+      "thumb_alt": "suit-image",
+      "color": "Yellow",
+      "colors": ["SpaceGray"],
+      "title": "Classic Suit Jacket",
+      "description": "Elevate your wardrobe with our Classic Suit Jacket in vibrant yellow. Crafted from high-quality materials, this jacket combines timeless elegance with modern sophistication. Whether you're attending a wedding or a formal event, this jacket will ensure you stand out in style.",
+      "full_description": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "price": 599,
+      "details": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "highlights": [
+        "Multiple strap configuration for a tailored fit",
+        "Water resistant material for added durability",
+        "Stainless strap loops for a polished finish",
+        "Ultra-soft 100% cotton lining for comfort"
+      ],
+      "features": [
+        "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
+        "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
+        "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+      ],
+      "rating": 4,
+      "reviews": 117,
+      "size": "Small",
+      "sizes": {
+        "XS": 3,
+        "S": 0,
+        "M": 1,
+        "L": 1213,
+        "XL": 6
+      },
+      "data": {
+        "Features": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+        "Care": "Machine wash cold, tumble dry low",
+        "Shipping": "We offer worldwide shipping. Delivery within 3-5 business days.",
+        "Returns": "Hassle-free returns within 30 days of purchase."
+      },
+      "featuresDetails": {
+        "Origin": "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
+        "Material": "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
+        "Dimensions": "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+      },
+      "stock": true
+    },
+
+    {
+      "id": "04",
+      "thumb_src": "assets/images/suit-5.jpg",
+      "thumb_alt": "set-image",
+      "color": "Blue",
+      "title": "Vest and Jacket Sets",
+      "description": "Elevate your formal attire with our Vest and Jacket Sets in classic blue. Perfect for weddings, proms, or any formal occasion, this set combines style and sophistication effortlessly. Crafted from premium materials, these sets are designed to ensure you look your best.",
+      "details": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "price": 999,
+      "full_description": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+      "highlights": [
+        "Multiple strap configuration for a tailored fit",
+        "Water resistant material for added durability",
+        "Stainless strap loops for a polished finish",
+        "Ultra-soft 100% cotton lining for comfort"
+      ],
+      "features": [
+        "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
+        "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
+        "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+      ],
+      "rating": 4,
+      "reviews": 117,
+      "size": "Small",
+      "sizes": {
+        "XS": 3,
+        "S": 0,
+        "M": 1,
+        "L": 1213,
+        "XL": 6
+      },
+      "data": {
+        "Features": "Elegance meets sophistication with our Tuxedo Suit Jacket in classic black. Crafted to perfection, this jacket is designed to make a statement at any formal occasion. Made from premium materials, it offers both style and comfort, ensuring you look and feel your best all night long.",
+        "Care": "Machine wash cold, tumble dry low",
+        "Shipping": "We offer worldwide shipping. Delivery within 3-5 business days.",
+        "Returns": "Hassle-free returns within 30 days of purchase."
+      },
+      "featuresDetails": {
+        "Origin": "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
+        "Material": "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
+        "Dimensions": "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+      },
+      "stock": true
+    }
+  ]
+}

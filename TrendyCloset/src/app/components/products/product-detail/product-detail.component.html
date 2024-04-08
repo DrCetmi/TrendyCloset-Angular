@@ -1,0 +1,47 @@
+<div *ngIf="product" class="container my-5 card-product card-plain">
+  <div class="row">
+    <div class="col-md-6">
+      <img
+        class="w-100 p-4 rounded-top"
+        [src]="product.thumb_src"
+        [alt]="product.thumb_alt"
+      />
+    </div>
+    <div class="col-md-6">
+      <div class="d-flex flex-column justify-content-between h-100">
+        <div>
+          <h2>{{ product.title }}</h2>
+          <p>{{ product.description }}</p>
+          <h3>${{ product.price }}</h3>
+          <div class="rating" *ngIf="product.rating !== 0">
+            <div>
+              <ng-container *ngFor="let star of getStarArray(product.rating)">
+                <i class="fa fa-star text-warning"></i>
+              </ng-container>
+              ({{ product.rating }}) {{ product.reviews }} Reviews
+            </div>
+          </div>
+          <div>
+            <h4 class="mt-3">Product Description</h4>
+            <ul>
+              <li>{{ product.full_description }}</li>
+              <li>{{ product.highlights }}</li>
+            </ul>
+            <h4 class="mt-3">Product Features</h4>
+            <ul>
+              <li>{{ product.details }}</li>
+              <li>{{ product.features }}</li>
+            </ul>
+          </div>
+        </div>
+        <button
+          (click)="addToCart()"
+          class="btn btn-dark btn-lg w-50"
+          type="submit"
+        >
+          Add to Cart
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

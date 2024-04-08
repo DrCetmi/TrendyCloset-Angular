@@ -1,0 +1,28 @@
+<div class="container mt-5">
+  <h3>Product Lists</h3>
+  <p class="text-body">List of products available in the store</p>
+  <div class="row mt-5">
+    <div class="col-md-6 col-lg-3" *ngFor="let product of products">
+      <div class="card card-product border mb-5 shadow-xs border-radius-lg">
+        <a
+          [routerLink]="['/products', product.id]"
+          class="text-decoration-none"
+        >
+          <div class="height-350">
+            <img
+              class="w-100 h-100 p-4 rounded-top"
+              [src]="product.thumb_src"
+              [alt]="product.thumb_alt"
+            />
+          </div>
+          <div class="card-body text-center">
+            <h6 class="text-md mb-1 text-body">{{ product.color }}</h6>
+            <h4 class="font-weight-bold">{{ product.title }}</h4>
+            <p class="text-body">{{ product.description }}</p>
+            <h4 class="mb-0 text-lg mt-1 mb-3">{{ product.price }}€</h4>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

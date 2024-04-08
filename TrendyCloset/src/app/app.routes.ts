@@ -27,5 +27,3 @@ export const routes: Routes = [
         {path: 'the-end', component: TheEndComponent}
 ] }
 ];
-
-

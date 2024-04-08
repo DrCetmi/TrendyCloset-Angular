@@ -1,0 +1,106 @@
+<nav
+  class="navbar navbar-expand-lg blur border-radius-sm top-0 z-index-3 shadow position-sticky py-3 start-0 end-0 bg-white"
+>
+  <div class="container px-1">
+    <a class="navbar-brand font-weight-bolder ms-lg-0" routerLink="/"
+      >TrendyCloset</a
+    >
+    <button
+      class="navbar-toggler shadow-none ms-2"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navigation"
+      aria-controls="navigation"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon mt-2">
+        <span class="navbar-toggler-bar bar1"></span>
+        <span class="navbar-toggler-bar bar2"></span>
+        <span class="navbar-toggler-bar bar3"></span>
+      </span>
+    </button>
+    <div class="collapse navbar-collapse" id="navigation">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a
+            class="nav-link text-dark font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            routerLink="/products"
+            >All Products</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link text-dark font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            routerLink="/about-us"
+            >About Us</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link text-dark font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            routerLink="/contact"
+            >Contact</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link text-dark font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            routerLink="/blog"
+            >Blog</a
+          >
+        </li>
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link text-dark dropdown-toggle font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            id="pagesExample"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Social Media
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="pagesExample">
+            <li>
+              <a class="dropdown-item" routerLink="/" target="_blank">
+                <i class="fab fa-facebook"></i> Facebook
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" routerLink="/" target="_blank">
+                <i class="fab fa-twitter"></i> Twitter
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" routerLink="/" target="_blank">
+                <i class="fab fa-instagram"></i> Instagram
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link text-dark font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            routerLink="/card"
+          >
+            <i class="fas text-lg fa-shopping-cart"></i>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link text-dark font-weight-bold d-flex align-items-center me-2"
+            aria-current="page"
+            routerLink="/login"
+          >
+            <i class="fas text-lg fa-sign-in-alt"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

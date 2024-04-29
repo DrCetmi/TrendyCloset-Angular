@@ -1,4 +1,4 @@
-import { HttpClientModule } from '@angular/common/http';
+import { HttpClientModule  } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ProductService } from '../products/product.service';
 import { CommonModule } from '@angular/common';

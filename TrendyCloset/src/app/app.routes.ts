@@ -24,6 +24,7 @@ export const routes: Routes = [
         {path: 'blog', component: BlogComponent},
         {path: 'card', component: ShoppingCartComponent},
         {path: 'checkout', component: CheckoutComponent},
-        {path: 'the-end', component: TheEndComponent}
+        {path: 'the-end', component: TheEndComponent},
+        {path: '**', redirectTo: 'home'}
 ] }
 ];
